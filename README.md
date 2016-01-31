@@ -25,7 +25,7 @@ http://raerae961.github.io/wellnessApp/
 + Click "Add"
 + The added item then moves to the bottom under the "Edit/Delete" column
 + The item can then be edited or deleted by clicking on "Edit" or "Delete"
-+ After editing an item, it can then be saved by clicking on "Save" and can be edited again by clicking "Save" again
++ After editing an item, it can then be saved by clicking on "Save" and can be edited again by clicking "Edit" button again
 
 Questions I had were:
 + How in depth should this app be? The login/forum/home buttons on the nav bar are only for show they do not link to anything.
