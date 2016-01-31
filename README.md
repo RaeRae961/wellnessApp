@@ -32,4 +32,5 @@ Questions I had were:
 
 
 Thoughts I had were:
-+ The second and third columns can be viewed at this time, but the "Add/Edit/Delete" buttons are not working. The HTML needs to be modified because I believe the JavaScript is reading only the first column due to the "this" function being used, and some IDs are being used as well. 
++ The second and third columns can be viewed at this time, but the "Add/Edit/Delete" buttons are not working. The HTML needs to be modified because I believe the JavaScript is reading only the first column due to the "this" function being used, and some IDs are being used as well. This code started as a "To Do" list from interactive JS that I learned from Treehouse.
++ It would be nice if the added text that is "http" could automatically convert to a link for the websites. I believe that can be done with JQuery but not 100% sure.
