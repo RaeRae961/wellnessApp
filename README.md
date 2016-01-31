@@ -18,6 +18,7 @@ The instructions were to:
 
 **To View the App**
 + Click on the link to view it on GitHub pages
+http://raerae961.github.io/wellnessApp/
 
 **How to Use the App**
 + Enter text into the blank field next to "Add"
