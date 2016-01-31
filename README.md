@@ -6,15 +6,15 @@ The instructions were to:
 + Initialize a git repo
 + Mock up an application interface
 + Create a base layout using a CSS pre-processor
-- I used SCSS and Grunt to process it into CSS
+-- I used SCSS and Grunt to process it into CSS
 + Add animation example using CSS
-- On the top navigation, animation is used to transition the links on hover
+-- On the top navigation, animation is used to transition the links on hover
 + Add an example of responsive layout
-- The columns are responsive, they will move from 3-wide down to 1-wide based on the screen size
-- The columns and input fields at 500px wide will reduce down to 75% width
-- The background image is also responsive
+-- The columns are responsive, they will move from 3-wide down to 1-wide based on the screen size
+-- The columns and input fields at 500px wide will reduce down to 75% width
+-- The background image is also responsive
 + Add as many 3rd party tools as you'd like
-- I used SCSS, Grunt, JavaScript
+-- I used SCSS, Grunt, JavaScript
 
 **To View the App**
 + Click on the link to view it on GitHub pages
